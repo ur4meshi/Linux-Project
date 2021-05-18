@@ -1,2 +1,3 @@
 Teste cria arquivo log
 Write log file
+Exec log file
