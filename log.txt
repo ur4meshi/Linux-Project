@@ -1,0 +1,2 @@
+Teste cria arquivo log
+Write log file
